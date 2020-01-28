@@ -1,9 +1,11 @@
 # texpad_scripts
-Helper scripts for Texpad
+Helper scripts for [Texpad](https://www.texpad.com).
 
 ## Scripts
 
-### `texpad`
+### texpad
+
+(**Only for macos**)
 
 Launch the Texpad application from the command line. Optionally with a file
 path as an argument:
